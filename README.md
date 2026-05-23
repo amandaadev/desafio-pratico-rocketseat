@@ -26,9 +26,3 @@ Fortalecer minha base em desenvolvimento frontend, praticando HTML semântico, e
 Você pode visualizar o layout original do desafio através do link abaixo:
 
 [🔗 Acessar projeto no Figma](https://www.figma.com/design/UTX5L2klRXXYmQB00sivAC/Local-Tur%C3%ADstico--Community---Copy-?node-id=2113-404&t=fhU7d4nhFU7hTetP-0)
-
-## 📷 Preview
-
-![Preview do projeto](./assets/preview.png)
-![Preview do projeto](./assets/preview-2.png)
-![Preview do projeto](./assets/preview-3.png)
