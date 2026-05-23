@@ -1,5 +1,7 @@
 # Fullstack Practical Challenge 💻
 
+Deploy: [Design Project](https://amandaadev.github.io/desafio-pratico-rocketseat/)
+
 ## 📌 Descrição
 
 Este repositório foi desenvolvido como parte de um desafio prático do curso para criar uma Landing Page de turismo utilizando apenas HTML e CSS.
