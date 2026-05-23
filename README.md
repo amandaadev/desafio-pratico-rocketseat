@@ -1,6 +1,6 @@
 # Fullstack Practical Challenge 💻
 
-Deploy: [Design Project](https://amandaadev.github.io/desafio-pratico-rocketseat/)
+Deploy: [Local Turístico](https://amandaadev.github.io/desafio-pratico-rocketseat/)
 
 ## 📌 Descrição
 
